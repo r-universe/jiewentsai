@@ -1,7 +1,28 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jiewentsai/jiewentsai.r-universe.dev
 	branch = HEAD
+[submodule "birt"]
+	path = birt
+	url = https://github.com/jiewenTsai/birt
+[submodule "birtRcpp"]
+	path = birtRcpp
+	url = https://github.com/jiewenTsai/birtRcpp
+[submodule "kitDesign"]
+	path = kitDesign
+	url = https://github.com/jiewenTsai/kitDesign
+[submodule "kitJoin"]
+	path = kitJoin
+	url = https://github.com/jiewenTsai/kitJoin
+[submodule "kits"]
+	path = kits
+	url = https://github.com/jiewenTsai/kits
+[submodule "kitsUI"]
+	path = kitsUI
+	url = https://github.com/jiewenTsai/kitsUI
+[submodule "kitverse"]
+	path = kitverse
+	url = https://github.com/jiewenTsai/kitverse
 [submodule "tppcm"]
 	path = tppcm
-	url = https://github.com/jiewentsai/tppcm
+	url = https://github.com/jiewenTsai/tppcm
